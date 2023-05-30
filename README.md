@@ -1,4 +1,5 @@
 # REQUIRES YT-DLP THIS IS NOT A YT-DLP DISTRIBUTION
+here is the thing if you want it https://pypi.org/project/easy-yt-dlp-py/
 # How to use!  
 import ytdlpy into your project  
 then type "ytdlpy.ytdlpy()"  
